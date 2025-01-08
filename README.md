@@ -1,6 +1,6 @@
 # PHTUBE  
 
-A modern **video-sharing platform** built with [Main Technology Used].
+A modern **video-sharing platform** built with javaScript.
 
 ## 🌟 Features  
 
