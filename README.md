@@ -12,7 +12,7 @@ A modern **video-sharing platform** built with [Main Technology Used].
 
 ## 🛠️ Technologies Used  
 
-- **Frontend:** [HTML, Css]  
+- **Frontend:** [HTML, Css, Javascript]  
 
 
 
